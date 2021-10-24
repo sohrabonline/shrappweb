@@ -3,9 +3,9 @@ part of values;
 class Data {
   static List<SocialButtonData> socialData = [
     SocialButtonData(
-      tag: StringConst.TWITTER_URL,
-      iconData: FontAwesomeIcons.twitter,
-      url: StringConst.TWITTER_URL,
+      tag: StringConst.TELEGRAM_URL,
+      iconData: FontAwesomeIcons.telegram,
+      url: StringConst.TELEGRAM_URL,
     ),
     SocialButtonData(
       tag: StringConst.FACEBOOK_URL,

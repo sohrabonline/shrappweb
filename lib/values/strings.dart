@@ -100,7 +100,7 @@ class StringConst {
   static const String HAPPY_CLIENTS = "Happy Clients";
   static const String HAPPY_CLIENTS_NUM = "120";
   static const String YEARS_OF_EXPERIENCE = "Years of Experience";
-  static const String YEARS_OF_EXPERIENCE_NUM = "10";
+  static const String YEARS_OF_EXPERIENCE_NUM = "4";
   static const String INCREDIBLE_PROJECTS = "Incredible Projects";
   static const String INCREDIBLE_PROJECTS_NUM = "230";
   static const String AWARD_WINNING = "Award Winning";
@@ -125,12 +125,12 @@ class StringConst {
   static const String PORTFOLIO_6_TITLE = "Company Branding";
 
   //Awards & Section
-  static const String MY = "My";
-  static const String CV = "CV";
+  static const String MY = "SHRApp";
+  static const String CV = "";
   static const String MY_AWARDS = "my awards";
   static const String AWARDS_TITLE = "Honours & Awards";
   static const String AWARDS_DESC =
-      "Since 2015 I have been a visionary and a reliable software engineering partner for world-class brands.";
+      "Since 2016 Ww have been a visionary and a reliable software engineering partner for world-class brands.";
   static const String AWARDS_TYPE_TITLE_1 = "In Press";
   static const String AWARDS_TYPE_TITLE_2 = "Awards";
   static const String AWARDS_1 = "Forbes";
@@ -180,15 +180,15 @@ class StringConst {
   //Footer Section
   static const String LETS_TALK = "Let's Talk!";
   static const String PHONE_ME = "Phone Me";
-  static const String PHONE_NUMBER = "+1 800 123 456 789";
+  static const String PHONE_NUMBER = "+99470 40 510 40";
   static const String MAIL_ME = "Mail Me";
   static const String FOLLOW_ME_2 = "Follow Me";
   static const String FOLLOW_ME_2_URL = "behance.net/nimbus2000";
   static const String RIGHTS_RESERVED = "© 2021 All rights reserved";
   static const String BUILT_BY = "Built with Flutter by";
-  static const String DAVID_COBBINA = "David Cobbina";
+  static const String DAVID_COBBINA = "Sohrab Vahidli";
   static const String DESIGNED_BY = "Designed by";
-  static const String WEB_GENIUS_LAB = "WebGeniusLab";
+  static const String WEB_GENIUS_LAB = "SHRApp";
   static const String MADE_IN_GHANA = "Made in";
   static const String WITH_LOVE = "with";
   static const String FIND_ME = "Find me on..";
@@ -197,11 +197,11 @@ class StringConst {
   static const String WEB_GENIUS_LAB_URL = "https://webgeniuslab.net/";
   static const String BEHANCE_URL = "https://www.behance.net/";
   static const String DRIBBLE_URL = "https://dribbble.com/";
-  static const String LINKED_IN_URL = "https:linkedin.com/in/";
-  static const String INSTAGRAM_URL = "https://www.instagram.com/";
+  static const String LINKED_IN_URL = "https://www.linkedin.com/company/shrapp";
+  static const String INSTAGRAM_URL = "https://www.instagram.com/shrapp.dev";
   static const String GITHUB_URL = "https://github.com/";
-  static const String FACEBOOK_URL = "https://facebook.com/";
-  static const String TWITTER_URL = "http://twitter.com/";
+  static const String FACEBOOK_URL = "https://facebook.com/shrapp";
+  static const String TELEGRAM_URL = "http://t.me/SHRAPP";
   static const String DAVID_LEGEND_URL = "https://davidcobbina.com/#/";
   static const String DESIGN_URL =
       "https://www.behance.net/gallery/95351691/Resume-Design-03";

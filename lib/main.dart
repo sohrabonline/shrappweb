@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:layout/layout.dart';
 import 'package:shrappweb/presentation/routes/router.gr.dart';
+import 'package:shrappweb/scroll_behavior.dart';
 import 'package:shrappweb/values/values.dart';
 
 import 'app_theme.dart';
@@ -18,6 +19,10 @@ class Nimbus extends StatelessWidget {
       child: MaterialApp.router(
         title: StringConst.APP_NAME,
         theme: AppTheme.lightThemeData,
+        builder: (context, widget) {
+          return ScrollConfiguration(
+              behavior: ScrollBehaviorModified(), child: widget!);
+        },
         debugShowCheckedModeBanner: false,
         routerDelegate: _appRouter.delegate(),
         routeInformationParser: _appRouter.defaultRouteParser(),
