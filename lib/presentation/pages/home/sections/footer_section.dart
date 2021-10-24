@@ -24,8 +24,8 @@ List<FooterItem> footerItems = [
   ),
   FooterItem(
     title: StringConst.FOLLOW_ME_2 + ":",
-    subtitle: StringConst.BEHANCE_ID,
-    iconData: FontAwesomeIcons.behance,
+    subtitle: StringConst.LINKED_IN_URL,
+    iconData: FontAwesomeIcons.linkedin,
   ),
 ];
 
